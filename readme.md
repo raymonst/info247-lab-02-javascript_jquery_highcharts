@@ -13,10 +13,10 @@ You are building two line charts using the same data as the one shown in the bar
 ###Practice with Highcharts
 1. Work on line-chart.html
 2. Create a line chart from scratch. Use the bar chart example & http://www.highcharts.com/demo/line-basic as your starting point.
-3. You only need to edit the script=--no need to edit the HTML or CSS.
+3. You only need to edit the script--no need to edit the HTML or CSS.
 
 ###Practice with Highcharts & jQuery
 1. Set up a local server or upload the repository to your i-school server space.
 2. Work on line-chart-ajax.html
 3. Follow the specific instructions outlined in line-chart-ajax.html.
-4. You only need to edit the script=--no need to edit the HTML or CSS.
+4. You only need to edit the script--no need to edit the HTML or CSS.
