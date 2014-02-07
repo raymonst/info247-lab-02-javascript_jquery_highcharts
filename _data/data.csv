@@ -1,20 +1,5 @@
-Sport,Gold,Silver,Bronze,Total
-Archery,0,3,0,3
-Athletics,19,22,7,48
-Basketball,24,0,0,24
-Beach Volleyball,2,2,0,4
-Boxing,1,0,1,2
-Cycling,1,5,1,7
-Diving,1,2,4,7
-Fencing,0,0,4,4
-Football,17,0,0,17
-Gymnastics,7,1,2,10
-Judo,1,0,1,2
-Rowing,9,0,8,17
-Shooting,3,0,1,4
-Swimming,41,16,11,68
-Taekwondo,0,0,2,2
-Tennis,5,0,2,7
-Volleyball,0,12,0,12
-Waterpolo,12,0,0,12
-Wrestling,2,0,2,4
+Name,Grade1,Grade2,Grade3
+Andy,78,96,88
+Bob,90,82,93
+Christina,88,91,98
+David,79,92,87
